@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<orders>
+  <order>
+    <description>Conference Room Rental</description>
+    <unit>600</unit>
+    <quantity>1</quantity>
+    <total>600</total>
+  </order>
+  <order>
+    <description>Catering for 40 People</description>
+    <unit>1280</unit>
+    <quantity>1</quantity>
+    <total>1280</total>
+  </order>
+  <order>
+    <description>Service Staff</description>
+    <unit>250</unit>
+    <quantity>2</quantity>
+    <total>500</total>
+  </order>
+</orders>
