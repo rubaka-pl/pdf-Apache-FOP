@@ -6,7 +6,6 @@ This project generates invoice PDF using **Apache FOP**, **XSL-FO**, and **XML d
 
 ## 🚀 How to Use (ENGLISH)
 
-You **don't need to install** Apache FOP system-wide. Just download and unzip it.
 
 ### ✅ Step-by-step
 
